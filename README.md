@@ -1,8 +1,5 @@
 # Python-project
 Entri Elevate - Data Science and Machine Learning
-:exclamation:Module End Project :exclamation:
-Dear students,
-We have reached the end of the Python module, here is your module end project.
 Providing a dataset of employees working in ABC company. It consists of 458 rows and 9 columns. The company needs the detailed report and explanation of their employees in each team, also need to identify the following:
 1.How many are there in each Team and the percentage splitting with respect to the total employees.
 2.Segregate the employees w.r.t different positions.
